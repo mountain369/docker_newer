@@ -31,6 +31,7 @@
 
 <p align="center">
 <img width="200" src="https://github.com/mountain369/docker_practice/blob/master/_images/jdbuy.png">
+ <img width="200" src="https://gitee.com/mountain369/docker_newer/raw/master/_images/jdbuy.png"> 
 </p>
 
 <p align="center"><strong>扫码京东购买</strong></p>
