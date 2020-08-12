@@ -21,7 +21,7 @@
 
 ## 进阶学习
 
-[![](https://github.com/mountain369/docker_practice/blob/master/_images/docker_primer3.png)][1]
+[![](https://gitee.com/mountain369/docker_newer/raw/master/_images/docker_primer3.png)][1]
 
 《[Docker 技术入门与实战][1]》第三版已经面世，介绍最新的容器技术栈，欢迎大家阅读使用并反馈建议。
 
@@ -30,7 +30,6 @@
 ## 扫码购买纸质书
 
 <p align="center">
-<img width="200" src="https://github.com/mountain369/docker_practice/blob/master/_images/jdbuy.png">
  <img width="200" src="https://gitee.com/mountain369/docker_newer/raw/master/_images/jdbuy.png"> 
 </p>
 
