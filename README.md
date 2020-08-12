@@ -13,7 +13,7 @@
 ## 微信小程序
 
 <p align="center">
-<img width="200" src="https://yewm28.coding-pages.com/49682252-3ac4c500-faec-11e8-86ab-eafe0139be6b.jpg">
+<img width="200" src="https://yewm28.coding-pages.com/49682252-3ac4c500-faec-11e8-86ab-eafe0139be6b-aaaaa.jpg">
 </p>
 
 <p align="center"><strong>微信扫码 随时随地阅读~</strong></p>
